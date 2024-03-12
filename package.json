@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,7 +21,8 @@
     "react-moralis": "^1.4.2",
     "react-spinner": "^0.2.7",
     "react-spinners": "^0.13.7",
-    "react-spring": "^9.6.1"
+    "react-spring": "^9.6.1",
+    "road-to-lens":"^0.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
